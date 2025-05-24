@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Andres  
-![GitHub followers](https://img.shields.io/github/followers/naamdvl)
 
-🚀 **Desarrollador [Frontend | Backend ]**  
+🚀 **Desarrollador [Frontend | Backend ]** 
 📍 [Bogota/Colombia] 
+
 ## 👨‍💻 Sobre mí  
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.
 
