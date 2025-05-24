@@ -10,7 +10,7 @@
 
 🌱 Estoy en camino de aprender sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.
 
-🎓 Actualmente estoy estudiando Ciencias de la Computación y Matemáticas en la Universidad de Massachusetts Amherst.  
+🎓 Actualmente estoy estudiando Ciencias de la Computación y Matemáticas en la Universidad de Servicio Nacional de Aprendizaje SENA.  
 
 ### 🛠 &nbsp;Tecnologías y Herramientas  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo-python)&nbsp;
