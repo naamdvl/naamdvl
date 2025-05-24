@@ -7,7 +7,9 @@
 📍 [Bogota/Colombia] 
 ## 👨‍💻 Sobre mí  
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.
+
 🌱 Estoy en camino de aprender sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.
+
 🎓 Actualmente estoy estudiando Ciencias de la Computación y Matemáticas en la Universidad de Massachusetts Amherst.  
 
 ### 🛠 &nbsp;Tecnologías y Herramientas  
