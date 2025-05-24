@@ -1,4 +1,4 @@
-![Mi Banner Personalizado]https://github.com/naamdvl/naamdvl/blob/9f1737e8ea05b140ca2a3ba1cce1272a424142e8/Captura.PNG)
+![O Escaravello](https://raw.githubusercontent.com/naamdvl/naamdvl/main/Captura.PNG)
 
 # ¡Hola! 👋 Soy Andres  
 ![GitHub followers](https://img.shields.io/github/followers/naamdvl)
@@ -27,4 +27,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/andres-aroca-269042368/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](URL) 
 
-[![Email](https://img.shields.io/badge/Email-miemail@example.com-blue?style=for-the-badge&logo=gmail)](mailto:andresaroca921@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-andresaroca921@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:andresaroca921@gmail.com) 
