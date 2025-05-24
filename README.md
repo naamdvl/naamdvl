@@ -1,5 +1,3 @@
-![O Escaravello](https://raw.githubusercontent.com/naamdvl/naamdvl/main/Captura.PNG)
-
 # ¡Hola! 👋 Soy Andres  
 ![GitHub followers](https://img.shields.io/github/followers/naamdvl)
 
