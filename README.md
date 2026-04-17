@@ -12,9 +12,12 @@
 
 ### 🛠 &nbsp;Tecnologías y Herramientas  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo-python)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Tailwind CSS]([https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC))\
+![NodeJs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; 
-![css](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286)&nbsp; 
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286)&nbsp;
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 ## 🌟 Proyectos Destacados  
 - [🔗 EduVota](https://github.com/naamdvl/EduVota) - Proyecto para gestionar candidatos en votaciones institucionales.  
@@ -25,6 +28,5 @@
 
 ## 📫 ¡Conéctate conmigo!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/andres-aroca-269042368/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](URL) 
 
 [![Email](https://img.shields.io/badge/Email-andresaroca921@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:andresaroca921@gmail.com) 
