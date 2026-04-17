@@ -11,7 +11,7 @@
 🎓 Actualmente estoy estudiando Ciencias de la Computación y Matemáticas en la Universidad de Servicio Nacional de Aprendizaje SENA.  
 
 ### 🛠 &nbsp;Tecnologías y Herramientas  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
