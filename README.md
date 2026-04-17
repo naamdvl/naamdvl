@@ -17,8 +17,8 @@
 ![css](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286)&nbsp; 
 
 ## 🌟 Proyectos Destacados  
-- [🔗 EduVota]([URL](https://github.com/naamdvl/EduVota)) - Descripción breve.  
-- [🔗 Extension De Descargas]([URL](https://github.com/naamdvl/Extension-Descargas-YT)) - Descripción breve.  
+- [🔗 EduVota]([https://github.com/naamdvl/EduVota]) - Proyecto para gestionar candidatos en votaciones institucionales.  
+- [🔗 Extension De Descargas]([https://github.com/naamdvl/Extension-Descargas-YT]) - Proyecto para descargas de videos online.  
 
 ## ⚙️ Estadísticas GitHub  
 ![naamdvl's Stats](https://github-readme-stats.vercel.app/api?username=naamdvl&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
