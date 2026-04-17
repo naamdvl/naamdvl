@@ -13,7 +13,7 @@
 ### 🛠 &nbsp;Tecnologías y Herramientas  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo-python)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
-![NodeJs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; 
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286)&nbsp;
